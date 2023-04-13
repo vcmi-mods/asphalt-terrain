@@ -1,0 +1,510 @@
+{
+	"core:mountain": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"AVLMTVO1": {
+						"animation": "asphalt craters/AVLMTVO1",
+						"mask": ["VVVVV", "BBBBV", "BBBBB", "VVBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AVLMTVO2": {
+						"animation": "asphalt craters/AVLMTVO2",
+						"mask": ["VVVVVV", "VBBBB", "BBBBB", "BBBVV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"AVLMTVO3": {
+						"animation": "asphalt craters/AVLMTVO3",
+						"mask": ["VVV", "BBB", "VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"AVLMTVO4": {
+						"animation": "asphalt craters/AVLMTVO4",
+						"mask": ["VVV", "BBB", "BBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"AVLMTVO5": {
+						"animation": "asphalt craters/AVLMTVO5",
+						"mask": ["BBV", "VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"AVLMTVO6": {
+						"animation": "asphalt craters/AVLMTVO6",
+						"mask": ["VBB", "BBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan01": {
+						"animation": "asphalt craters/vcan01",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan02": {
+						"animation": "asphalt craters/vcan02",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan03": {
+						"animation": "asphalt craters/vcan03",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan04": {
+						"animation": "asphalt craters/vcan04",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan05": {
+						"animation": "asphalt craters/vcan05",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan06": {
+						"animation": "asphalt craters/vcan06",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan07": {
+						"animation": "asphalt craters/vcan07",
+						"mask": ["VVV", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan08": {
+						"animation": "asphalt craters/vcan08",
+						"mask": ["VV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan09": {
+						"animation": "asphalt craters/vcan09",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan10": {
+						"animation": "asphalt craters/vcan10",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan11": {
+						"animation": "asphalt craters/vcan11",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan12": {
+						"animation": "asphalt craters/vcan12",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan13": {
+						"animation": "asphalt craters/vcan13",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan14": {
+						"animation": "asphalt craters/vcan14",
+						"mask": ["VVV", "VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan15": {
+						"animation": "asphalt craters/vcan15",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan16": {
+						"animation": "asphalt craters/vcan16",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan17": {
+						"animation": "asphalt craters/vcan17",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan18": {
+						"animation": "asphalt craters/vcan18",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"vcan19": {
+						"animation": "asphalt craters/vcan19",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl01": {
+						"animation": "asphalt craters/VIsl01",
+						"mask": ["VBV", "BBB","BBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl02": {
+						"animation": "asphalt craters/VIsl02",
+						"mask": ["BBV", "BBB","VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl03": {
+						"animation": "asphalt craters/VIsl03",
+						"mask": ["BB","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl04": {
+						"animation": "asphalt craters/VIsl04",
+						"mask": ["VB","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl05": {
+						"animation": "asphalt craters/VIsl05",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl06": {
+						"animation": "asphalt craters/VIsl06",
+						"mask": ["B","B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl07": {
+						"animation": "asphalt craters/VIsl07",
+						"mask": ["BB","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl08": {
+						"animation": "asphalt craters/VIsl08",
+						"mask": ["B","B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl09": {
+						"animation": "asphalt craters/VIsl09",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl10": {
+						"animation": "asphalt craters/VIsl10",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl11": {
+						"animation": "asphalt craters/VIsl11",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl12": {
+						"animation": "asphalt craters/VIsl12",
+						"mask": ["V", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl13": {
+						"animation": "asphalt craters/VIsl13",
+						"mask": ["VV", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl14": {
+						"animation": "asphalt craters/VIsl14",
+						"mask": ["VB", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl15": {
+						"animation": "asphalt craters/VIsl15",
+						"mask": ["VVV", "BBB","VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl16": {
+						"animation": "asphalt craters/VIsl16",
+						"mask": ["VVV", "VBB","BBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl17": {
+						"animation": "asphalt craters/VIsl17",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"VIsl18": {
+						"animation": "asphalt craters/VIsl18",
+						"mask": ["VBV", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"Volc1": {
+						"animation": "asphalt craters/Volc1",
+						"mask": ["VVVV", "VBBB", "VVBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+
+					"AltGrMt1": {
+						"animation": "asphalt toxicMountains/AltGrMt1",
+						"mask": ["VVVVVV", "VBBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AltGrMt2": {
+						"animation": "asphalt toxicMountains/AltGrMt2",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AltGrMt3": {
+						"animation": "asphalt toxicMountains/AltGrMt3",
+						"mask": ["VVVV", "VBBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AltGrMt4": {
+						"animation": "asphalt toxicMountains/AltGrMt4",
+						"mask": ["VVVV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AltGrMt5": {
+						"animation": "asphalt toxicMountains/AltGrMt5",
+						"mask": ["VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AltGrMt6": {
+						"animation": "asphalt toxicMountains/AltGrMt6",
+						"mask": ["VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"MNTSWP01": {
+						"animation": "asphalt toxicMountains/MNTSWP01",
+						"mask": ["VVVV","VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"MNTSWP02": {
+						"animation": "asphalt toxicMountains/MNTSWP02",
+						"mask": ["VVVV","VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"MNTSWP03": {
+						"animation": "asphalt toxicMountains/MNTSWP03",
+						"mask": ["VVVV","VBBB", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"MNTSWP04": {
+						"animation": "asphalt toxicMountains/MNTSWP04",
+						"mask": ["VVVV","VBBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},		
+					"MNTSWP05": {
+						"animation": "asphalt toxicMountains/MNTSWP05",
+						"mask": ["VVVVVV", "VVBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"MNTSWP06": {
+						"animation": "asphalt toxicMountains/MNTSWP06",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+
+					"FDTD0001": {
+						"animation": "asphalt mountains/FDTD0001",
+						"mask": ["VVVVVV", "VVBBBB", "VBBBBB", "BBBBVV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0002": {
+						"animation": "asphalt mountains/FDTD0002",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0003": {
+						"animation": "asphalt mountains/FDTD0003",
+						"mask": ["VVVV", "VBBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0004": {
+						"animation": "asphalt mountains/FDTD0004",
+						"mask": ["VVVV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0005": {
+						"animation": "asphalt mountains/FDTD0005",
+						"mask": ["VVVV","VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},					
+					"FDTD0006": {
+						"animation": "asphalt mountains/FDTD0006",
+						"mask": ["VVVV","VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0007": {
+						"animation": "asphalt mountains/FDTD0007",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0008": {
+						"animation": "asphalt mountains/FDTD0008",
+						"mask": ["VVV","VVV", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTM0001": {
+						"animation": "asphalt mountains/FDTM0001",
+						"mask": ["VVVV","VVVV", "BBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}				
+				}
+			}
+		}
+	}
+}

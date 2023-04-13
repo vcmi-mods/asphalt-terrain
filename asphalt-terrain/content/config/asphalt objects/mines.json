@@ -1,0 +1,83 @@
+{
+	"core:mine" : {
+		"types" : {
+			"crystalCavern" : {
+				"templates": {
+					"AVMcrvo0as" : {
+						"animation" : "asphalt mines/AVMCRVO0",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			},
+			"goldMine" : {
+				"templates": {
+					
+					"AVMgovo0as" : {
+						"animation" : "asphalt mines/AVMgovo0",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			},
+			
+			"sawmill" : {
+				"templates" : {
+					
+					"AVMswhl1as" : {
+						"animation" : "asphalt mines/AVMsawl0", 
+						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			},
+			
+			"alchemistLab" : {
+				"templates" : {
+					"AVMalch0as" : {
+						"animation" : "asphalt mines/AVMalch0",
+						"mask" : ["VVV", "VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			},
+			
+			"orePit" : {
+				"templates" : {
+					"AVMORlv0as" : {
+						"animation" : "asphalt mines/AVMORlv0",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			},
+			
+			"sulfurDune" : {
+				"templates" : {
+					"AVMsulf0as" : {
+						"animation" : "asphalt mines/AVMsulf0",
+						"mask" : ["VVV", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			},
+			
+			"gemPond" : {
+				"templates" : {
+					"AVMgelv0as" : {
+						"animation" : "asphalt mines/AVMgelv0",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["asphalt"]
+					}
+				}
+			}
+		}
+	}
+}	

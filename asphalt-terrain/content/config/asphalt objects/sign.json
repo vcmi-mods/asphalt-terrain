@@ -1,0 +1,16 @@
+{
+	"core:sign": {
+		"types": {
+			"object": {
+				"templates": {
+					"FALF0174": {
+						"animation": "asphalt sign/FALF0174",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["A"],
+						"allowedTerrains": ["asphalt"]
+					}
+				}
+			}
+		}
+	}
+}

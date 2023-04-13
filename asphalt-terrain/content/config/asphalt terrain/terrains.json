@@ -1,0 +1,18 @@
+{
+	"asphalt" :
+	{
+		"text" : "Asphalt",
+		"moveCost" : 75,
+		"minimapUnblocked" : [ 63, 76, 54 ],
+		 "minimapBlocked"   : [ 31, 34, 26 ],
+		"music" : "asphalt/Kanashige",
+		"tiles" : "asphalt/grastl_bad",
+		"river" : "acidRiver",
+		"rockTerrain":"rock",
+		"shortIdentifier" : "as",
+		"type" : ["LAND", "SURFACE"],
+		"battleFields" : ["asphalt"],
+		"horseSound" : "horse07",
+		"horseSoundPenalty" : "horse27"
+	}
+}

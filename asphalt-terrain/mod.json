@@ -1,0 +1,56 @@
+{
+	"name" : "Asphalt terrain",
+	"description" : "Assets for asphalt terrain.",
+	
+	"author" : "HOMM modding community",
+	"contact" : "madaosoul@gmail.com",
+	"version" : "1.2.0",
+	"changelog" :
+	{
+		"1.2.0"   : [ "Mod rewritten for new format" ],
+		"1.1.0"   : [ "Added mines and obelisk" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"modType" : "Objects",	
+	"conflicts" :
+	[
+
+	],
+	"rivers":
+	[
+		"config/asphalt terrain/river.json"
+	],
+		
+    "objects" :
+    [ 
+	"config/asphalt objects/deltas.json",
+	"config/asphalt objects/bones.json",
+	"config/asphalt objects/chasms.json",
+	"config/asphalt objects/deadTrees.json",
+	"config/asphalt objects/garrisons.json",
+	"config/asphalt objects/holes.json",
+	"config/asphalt objects/mountains.json",
+	"config/asphalt objects/mines.json",
+	"config/asphalt objects/rocks.json",
+	"config/asphalt objects/ruins.json",
+	"config/asphalt objects/sign.json",
+	"config/asphalt objects/toxicWaste.json",
+	"config/asphalt objects/others.json"
+    ],
+	"battlefields" :
+	[
+		"config/asphalt terrain/battlefields.json"
+	],
+	"obstacles" :
+	[
+		"config/asphalt terrain/obstacles.json"
+	],
+	"terrains" :
+	[
+		"config/asphalt terrain/terrains.json"
+	]
+}

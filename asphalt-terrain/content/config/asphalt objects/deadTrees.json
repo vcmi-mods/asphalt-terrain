@@ -1,0 +1,167 @@
+{
+	"core:deadVegetation": {
+
+		"types": {
+			"object": {
+				"templates": {
+
+					"FALG0003": {
+						"animation": "asphalt deadTrees/FALG0003",
+						"mask": ["VVVV", "VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FALG0004": {
+						"animation": "asphalt deadTrees/FALG0004",
+						"mask": ["VVVV", "VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FALG0005": {
+						"animation": "asphalt deadTrees/FALG0005",
+						"mask": ["VVVV", "VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FALG0006": {
+						"animation": "asphalt deadTrees/FALG0006",
+						"mask": ["VVVV", "VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},			
+					"FALG0007": {
+						"animation": "asphalt deadTrees/FALG0007",
+						"mask": ["VVVV", "VBBV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"ash03": {
+						"animation": "asphalt deadTrees/ash03",
+						"mask": ["VVVV", "VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},		
+					"ash04": {
+						"animation": "asphalt deadTrees/ash04",
+						"mask": ["VVVV", "VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"ash05": {
+						"animation": "asphalt deadTrees/ash05",
+						"mask": ["VVVV", "VBBV", "VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"ash06": {
+						"animation": "asphalt deadTrees/ash04",
+						"mask": ["VVVV", "VVBB", "VBBV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"ash07": {
+						"animation": "asphalt deadTrees/ash07",
+						"mask": ["VVVV", "VBBV", "VBBB","VVBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FALG0001": {
+						"animation": "asphalt deadTrees/FALG0001",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FALG0002": {
+						"animation": "asphalt deadTrees/FALG0002",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FALG0009": {
+						"animation": "asphalt deadTrees/FALG0009",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0014": {
+						"animation": "asphalt deadTrees/FSWG0014",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0015": {
+						"animation": "asphalt deadTrees/FSWG0015",
+						"mask": ["VV", "VB"],
+
+					"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0016": {
+						"animation": "asphalt deadTrees/FSWG0016",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0017": {
+						"animation": "asphalt deadTrees/FSWG0017",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0018": {
+						"animation": "asphalt deadTrees/FSWG0018",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0019": {
+						"animation": "asphalt deadTrees/FSWG0019",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0020": {
+						"animation": "asphalt deadTrees/FSWG0020",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0021": {
+						"animation": "asphalt deadTrees/FSWG0021",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FSWG0022": {
+						"animation": "asphalt deadTrees/FSWG0022",
+						"mask": ["VV", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}
+				}
+			}
+		}
+	}
+}

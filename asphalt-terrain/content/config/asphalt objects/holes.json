@@ -1,0 +1,43 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"FVOD0119": {
+						"animation": "asphalt holes/FVOD0119",
+						"mask": ["V"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"core:crater": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"AVLctrd0": {
+						"animation": "asphalt holes/AVLctrd0",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+
+					"FVOD0120": {
+						"animation": "asphalt holes/FVOD0120",
+						"mask": ["BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}
+				}
+			}
+		}
+	}
+}

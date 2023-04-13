@@ -1,0 +1,30 @@
+{
+	"abbeAssetsRuins" : {
+		"name" : "Ruins",
+		"handler":"static",
+		"types" : {
+			"dngnhom1" : {
+				//"rmg": {
+				//	"zoneLimit": 3,
+				//	"value": 30,
+				//	"rarity": 30
+				//},
+				"templates" : {				
+					"HsRuin01" : { "animation" : "asphalt ruins/HsRuin01", "mask" : [ "VVV", "VBB" ], "allowedTerrains": [ "asphalt" ] },
+									
+					"HsRuin02" : { "animation" : "asphalt ruins/HsRuin02", "mask" : [ "VVV", "VBB" ], "allowedTerrains": [ "asphalt" ] },
+									
+					"HsRuin03" : { "animation" : "asphalt ruins/HsRuin03", "mask" : [ "VVV", "VBB" ], "allowedTerrains": [ "asphalt" ] },
+									
+					"HsRuin04" : { "animation" : "asphalt ruins/HsRuin04", "mask" : [ "VVVV", "VBBV", "VVBB" ], "allowedTerrains": [ "asphalt" ] },
+									
+					"HsRuin05" : { "animation" : "asphalt ruins/HsRuin05", "mask" : [ "VVVV", "VVBB", "VBBV" ], "allowedTerrains": [ "asphalt" ] },
+									
+					"HsRuin06" : { "animation" : "asphalt ruins/HsRuin06", "mask" : [ "VVVV", "VBBV", "VVBB" ], "allowedTerrains": [ "asphalt" ] },
+									
+					"HsRuin07" : { "animation" : "asphalt ruins/HsRuin07", "mask" : [ "VVVV", "VVBB", "VBBV" ], "allowedTerrains": [ "asphalt" ] }
+				}
+			}
+		}
+	}
+}

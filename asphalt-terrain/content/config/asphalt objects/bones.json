@@ -1,0 +1,110 @@
+{
+	"core:rock": {
+		"types": {
+			"asphaltbones01": {
+				"name": "Bones",
+				"templates": {
+					
+					"AVXSKDS1": {
+						"animation": "asphalt bones/AVXSKDS1",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"AVXSKDS2": {
+						"animation": "asphalt bones/AVXSKDS2",
+						"mask": ["BBB","VVV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},				
+					"Carcass1": {
+						"animation": "asphalt bones/Carcass1",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"Carcass2": {
+						"animation": "asphalt bones/Carcass2",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"Carcass3": {
+						"animation": "asphalt bones/Carcass3",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"Carcass4": {
+						"animation": "asphalt bones/Carcass4",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"DinoSkl1": {
+						"animation": "asphalt bones/DinoSkl1",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"DinoSkl2": {
+						"animation": "asphalt bones/DinoSkl2",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"DinoSkl3": {
+						"animation": "asphalt bones/DinoSkl3",
+						"mask": ["BBV","VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"DragSkl5": {
+						"animation": "asphalt bones/DragSkl5",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"DragSkl8": {
+						"animation": "asphalt bones/DragSkl8",
+						"mask": ["BBB","BVV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"DragSkl7": {
+						"animation": "asphalt bones/DragSkl7",
+						"mask": ["VVV","BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"SSkel1": {
+						"animation": "asphalt bones/SSkel1",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"SSkel2": {
+						"animation": "asphalt bones/SSkel2",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}
+				}
+			}
+		}
+	}
+}

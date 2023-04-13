@@ -1,0 +1,115 @@
+{
+	"core:crater": {
+		"types": {
+			"asphaltcrater01": {
+				"name": "Chasm",
+				"templates": {
+	
+					"avlc10l0": {
+						"animation": "asphalt chasms/avlc10l0",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+
+					"avlc11l0": {
+						"animation": "asphalt chasms/avlc11l0",
+						"mask": ["BB", "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlc12l0": {
+						"animation": "asphalt chasms/avlc12l0",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlc13l0": {
+						"animation": "asphalt chasms/avlc13l0",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlc14l0": {
+						"animation": "asphalt chasms/avlc14l0",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct3l0": {
+						"animation": "asphalt chasms/avlct3l0",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct4l0": {
+						"animation": "asphalt chasms/avlct4l0",
+						"mask": ["BB", "BV"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct5l0": {
+						"animation": "asphalt chasms/avlct5l0",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct6l0": {
+						"animation": "asphalt chasms/avlct6l0",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct7l0": {
+						"animation": "asphalt chasms/avlct7l0",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct8l0": {
+						"animation": "asphalt chasms/avlct8l0",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"avlct9l0": {
+						"animation": "asphalt chasms/avlct9l0",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					
+					"AVLctrl0": {
+						"animation": "asphalt chasms/AVLctrl0",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}	
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,258 @@
+{
+	"core:lavaFlow": {
+
+		"types": {
+			"asphaltToxicFlow01": {
+				"name": "Toxic Waste",		
+				"sounds":
+				{
+					"ambient":["abbe neutral/toxicLOOP2"],
+					"visit":[""],
+					"removal":[""]
+				},						
+				"templates": {
+					"FrgCra01": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra01",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra02": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra02",
+						"mask": ["VBB", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra03": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra03",
+						"mask": ["BBBBBB", "BBBBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra04": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra04",
+						"mask": ["BBV", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra05": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra05",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra06": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra06",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra07": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra07",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra08": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra08",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra09": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra09",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra10": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra10",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra11": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra11",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra12": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra12",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra13": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra13",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra14": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra14",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra15": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra15",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra16": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra16",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra17": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra17",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra18": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra18",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra19": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra19",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra20": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra20",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra21": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra21",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra22": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra22",
+						"mask": ["B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra23": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra23",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra24": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra24",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra25": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra25",
+						"mask": ["B", "B"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra26": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra26",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra27": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra27",
+						"mask": ["BB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra28": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra28",
+						"mask": ["VB", "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra29": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra29",
+						"mask": ["BBB", "BBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FrgCra30": {
+						"zIndex": 100,				
+						"animation": "asphalt toxicWaste/FrgCra30",
+						"mask": ["BBBBBB", "BBBBBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}
+				}
+			}
+		}
+	}	
+}

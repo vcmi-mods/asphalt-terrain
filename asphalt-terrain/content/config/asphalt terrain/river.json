@@ -1,0 +1,9 @@
+{
+    "acidRiver":
+    {
+        "text" : "Acid river",
+        "shortIdentifier": "ra", //must be 2 characters
+        "tilesFilename": "acid river/acdrvr",
+        "delta": "acid river/acddelt"
+    }
+}

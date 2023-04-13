@@ -1,0 +1,159 @@
+{
+	"core:rock": {
+
+		"types": {
+			"asphaltRocksHills01": {
+				"name": "Rocks",
+				"templates": {
+					"FDTD0009": {
+						"animation": "asphalt rocks/FDTD0009",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},					
+					"FDTD0010": {
+						"animation": "asphalt rocks/FDTD0010",
+						"mask": [ "BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},						
+					"FDTD0011": {
+						"animation": "asphalt rocks/FDTD0011",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},						
+					"FDTD0012": {
+						"animation": "asphalt rocks/FDTD0012",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},						
+					"FDTD0013": {
+						"animation": "asphalt rocks/FDTD0013",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},				
+					"FDTD0014": {
+						"animation": "asphalt rocks/FDTD0014",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},						
+					"FDTD0015": {
+						"animation": "asphalt rocks/FDTD0015",
+						"mask": ["VVV","VBB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},						
+					"FDTD0016": {
+						"animation": "asphalt rocks/FDTD0016",
+						"mask": ["VV","BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},						
+					"FDTD0017": {
+						"animation": "asphalt rocks/FDTD0017",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},																
+					"FDTD0018": {
+						"animation": "asphalt rocks/FDTD0018",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},	
+					"FDTD0019": {
+						"animation": "asphalt rocks/FDTD0019",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},	
+					"FDTD0020": {
+						"animation": "asphalt rocks/FDTD0020",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0021": {
+						"animation": "asphalt rocks/FDTD0021",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0022": {
+						"animation": "asphalt rocks/FDTD0022",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0023": {
+						"animation": "asphalt rocks/FDTD0023",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0024": {
+						"animation": "asphalt rocks/FDTD0024",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0025": {
+						"animation": "asphalt rocks/FDTD0025",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0026": {
+						"animation": "asphalt rocks/FDTD0026",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0027": {
+						"animation": "asphalt rocks/FDTD0027",
+						"mask": ["VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0028": {
+						"animation": "asphalt rocks/FDTD0028",
+						"mask": ["VV","VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					},
+					"FDTD0029": {
+						"animation": "asphalt rocks/FDTD0029",
+						"mask": [ "VB"],
+						"allowedTerrains": [
+							"asphalt"
+						]
+					}
+				}
+			}
+		}
+	}
+}
