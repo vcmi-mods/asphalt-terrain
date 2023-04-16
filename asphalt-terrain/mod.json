@@ -4,9 +4,10 @@
 	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.2.0",
+	"version" : "1.2.1",
 	"changelog" :
 	{
+		"1.2.1"   : [ "Fixed delta rivers" ],
 		"1.2.0"   : [ "Mod rewritten for new format" ],
 		"1.1.0"   : [ "Added mines and obelisk" ],
 		"1.0"   : [ "Initial release" ]

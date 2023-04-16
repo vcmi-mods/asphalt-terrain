@@ -1,36 +1,24 @@
 {
 	"core:riverDelta": {
 		"types": {
-			"acidDelta": {
+			"object": {
 				"templates": {
 					
-					"^^^": {
-						"animation": "acid river/acddelt1",
-						"mask": ["VVV","VVV","VVV"],
-						"allowedTerrains": [
-							"asphalt"
-						]
+					"acddelt1": {
+						"animation": "acid river/acddelt1.def",
+						"mask": ["VVV","VVV","VVV"]
 					},
-					"VVV": {
-						"animation": "acid river/acddelt2",
-						"mask": ["VVV","VVV","VVV"],
-						"allowedTerrains": [
-							"asphalt"
-						]
+					"acddelt2": {
+						"animation": "acid river/acddelt2.def",
+						"mask": ["VVV","VVV","VVV"]
 					},
-					"<<<": {
-						"animation": "acid river/acddelt3",
-						"mask": ["VVV","VVV","VVV"],
-						"allowedTerrains": [
-							"asphalt"
-						]
+					"acddelt3": {
+						"animation": "acid river/acddelt3.def",
+						"mask": ["VVV","VVV","VVV"]
 					},
-					">>>": {
-						"animation": "acid river/acddelt4",
-						"mask": ["VVV","VVV","VVV"],
-						"allowedTerrains": [
-							"asphalt"
-						]
+					"acddelt4": {
+						"animation": "acid river/acddelt4.def",
+						"mask": ["VVV","VVV","VVV"]
 					}
 				}
 			}
