@@ -6,9 +6,7 @@
 				"name": "Toxic Waste",		
 				"sounds":
 				{
-					"ambient":["abbe neutral/toxicLOOP2"],
-					"visit":[""],
-					"removal":[""]
+					"ambient":["lavaFlow/toxicLOOP2"]
 				},						
 				"templates": {
 					"FrgCra01": {
