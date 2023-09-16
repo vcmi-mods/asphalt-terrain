@@ -1,0 +1,25 @@
+{
+    "basepath" : "acid river/palette shift/",
+    "sequences" :
+    [
+        {
+            "group" : 0,
+            "frames" :
+            [             
+                "lavrvr00",
+                "lavrvr01",
+                "lavrvr02",
+                "lavrvr03",
+                "lavrvr04",
+                "lavrvr05",
+                "lavrvr06",
+                "lavrvr07",   
+                "lavrvr08",
+                "lavrvr09",
+                "lavrvr10",
+                "lavrvr11",
+                "lavrvr12"
+            ]
+        }			
+    ]
+}
