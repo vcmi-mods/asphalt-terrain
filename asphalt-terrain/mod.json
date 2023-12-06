@@ -5,7 +5,7 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.2.3",
+	"version" : "1.2.4",
 	"changelog" :
 	{
 		"1.2.4"   : [ "small fix for vcmi-1.4" ],
