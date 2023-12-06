@@ -10,7 +10,7 @@
 		"river" : "acidRiver",
 		"rockTerrain":"rock",
 		"shortIdentifier" : "as",
-		"type" : ["LAND", "SURFACE"],
+		"type" : ["SURFACE"],
 		"battleFields" : ["asphalt"],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27"
