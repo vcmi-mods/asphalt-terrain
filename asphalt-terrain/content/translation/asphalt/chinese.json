@@ -1,0 +1,9 @@
+{
+	"mapObject.asphalt-terrain.rock.asphaltbones01.name" : "尸骨",
+	"mapObject.asphalt-terrain.crater.asphaltcrater01.name" : "火山口",
+	"mapObject.asphalt-terrain.rock.asphaltRocksHills01.name" : "岩石",
+	"mapObject.asphalt-terrain.abbeAssetsRuins.name" : "废墟",
+	"mapObject.asphalt-terrain.lavaFlow.asphaltToxicFlow01.name" : "有毒废液",
+	"terrain.asphalt-terrain.acidRiver.name" : "酸液河流",
+	"terrain.asphalt-terrain.asphalt.name" : "沥青"
+}
