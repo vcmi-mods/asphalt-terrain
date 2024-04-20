@@ -101,8 +101,8 @@
 		"biome": {
 			"terrain" : "asphalt",
 			"objectType": "mountain"
-		},
-		"templates" : ["MNTSWP01", "MNTSWP02", "MNTSWP03", "MNTSWP04", "MNTSWP05", "MNTSWP06"]
+		}, // FIXME: Conflict with hota mountains
+		"templates" : ["asphalt-terrain:MNTSWP01", "asphalt-terrain:MNTSWP02", "asphalt-terrain:MNTSWP03", "asphalt-terrain:MNTSWP04", "asphalt-terrain:MNTSWP05", "asphalt-terrain:MNTSWP06"]
 	},
 	"asphaltMountain4": {
 		"biome": {
