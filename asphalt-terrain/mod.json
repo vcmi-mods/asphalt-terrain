@@ -5,9 +5,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.2.5",
+	"version" : "1.2.6",
 	"changelog" :
 	{
+		"1.2.6"   : [ "Added configuration for Biomes" ],
 		"1.2.5"   : [ "Added Chinese translation" ],
 		"1.2.4"   : [ "small fix for vcmi-1.4" ],
 		"1.2.3"   : [ "added acid river palette shift" ],
@@ -54,6 +55,10 @@
 	"config/asphalt objects/toxicWaste.json",
 	"config/asphalt objects/others.json"
     ],
+	"biomes":
+	[
+		"config/asphalt objects/asphaltBiomes.json"
+	],
 	"battlefields" :
 	[
 		"config/asphalt terrain/battlefields.json"

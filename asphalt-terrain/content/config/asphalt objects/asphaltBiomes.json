@@ -1,0 +1,135 @@
+{
+	"asphaltbones01" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "animal"
+		},
+		"templates" : ["AVXSKDS1", "AVXSKDS2"]
+	},
+	"carcass" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "other"
+		},
+		"templates" : ["Carcass1", "Carcass2", "Carcass3", "Carcass4"]
+	},
+	"dinoSkeleton" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "animal"
+		},
+		"templates" : ["DinoSkl1", "DinoSkl2", "DinoSkl3"]
+	},
+	"dragonSkeleton" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "animal"
+		},
+		"templates" : ["DragSkl5", "DragSkl7", "DragSkl8"]
+	},
+	"snakeSkeleton" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "animal"
+		},
+		"templates" : ["SSkel1", "SSkel2"]
+	},
+	"asphaltCrater": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "crater"
+		},
+		"templates" : ["avlc10l0", "avlc11l0", "avlc12l0", "avlc13l0", "avlc14l0", "avlct3l0", "avlct4l0", "avlct5l0", "avlct6l0", "avlct7l0", "avlct8l0", "avlct9l0", "AVLctrl0"]
+	},
+	"deadTrees" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "tree"
+		},
+		"templates" : ["FALG0001", "FALG0002", "FALG0003", "FALG0004", "FALG0005", "FALG0006", "FALG0007", "FALG0009"]
+	},
+	"ashTrees" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "tree"
+		},
+		"templates" : ["ash03", "ash04", "ash05", "ash06", "ash07"]
+	},
+	"lonelyTrees" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "plant"
+		},
+		"templates" : ["FSWG0014", "FSWG0015", "FSWG0016", "FSWG0016", "FSWG0017", "FSWG0018", "FSWG0018", "FSWG0019", "FSWG0020", "FSWG0021", "FSWG0022"]
+	},
+	"craters" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "crater"
+		},
+		"templates" : ["AVLctrd0", "FVOD0120"]
+	},
+	"dormantVolcano" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "mountain"
+		},
+		"templates" : ["AVLMTVO1", "AVLMTVO2", "AVLMTVO3", "AVLMTVO4", "AVLMTVO5", "AVLMTVO6", "Volc1"]
+	},
+	"dormantVolcano2": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "mountain"
+		},
+		"templates" : ["vcan01", "vcan02", "vcan03", "vcan04", "vcan05", "vcan06", "vcan07", "vcan08", "vcan09", "vcan10", "vcan11", "vcan12", "vcan13", "vcan14", "vcan15", "vcan16", "vcan17", "vcan18", "vcan19"]
+	},
+	"dormantVolcano3": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "mountain"
+		},
+		"templates" : ["VIsl01", "VIsl02", "VIsl03", "VIsl04", "VIsl05", "VIsl06", "VIsl07", "VIsl08", "VIsl09", "VIsl10", "VIsl11", "VIsl12", "VIsl13", "VIsl14", "VIsl15", "VIsl16", "VIsl17", "vcan18"]
+	},
+	"toxicMountain1": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "mountain"
+		},
+		"templates" : ["AltGrMt1", "AltGrMt2", "AltGrMt3", "AltGrMt4", "AltGrMt5", "AltGrMt6"]
+	},
+	"toxicMountain2": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "mountain"
+		},
+		"templates" : ["MNTSWP01", "MNTSWP02", "MNTSWP03", "MNTSWP04", "MNTSWP05", "MNTSWP06"]
+	},
+	"asphaltMountain4": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "mountain"
+		},
+		"templates" : ["FDTD0001", "FDTD0002", "FDTD0003", "FDTD0004", "FDTD0005", "FDTD0006", "FDTD0007", "FDTD0008", "FDTM0001"]
+	},
+	"asphaltRocksHills01": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "rock"
+		},
+		"templates" : ["FDTD0009", "FDTD0010", "FDTD0011", "FDTD0012", "FDTD0013", "FDTD0014", "FDTD0015", "FDTD0016", "FDTD0017", "FDTD0018", "FDTD0019", "FDTD0020", "FDTD0021", "FDTD0022", "FDTD0023", "FDTD0024", "FDTD0025", "FDTD0026", "FDTD0027", "FDTD0028", "FDTD0029"]
+	},
+	"ruins" : {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "structure"
+		},
+		"templates" : ["HsRuin01", "HsRuin02", "HsRuin03", "HsRuin04", "HsRuin05", "HsRuin06", "HsRuin07"]
+	},
+	"asphaltToxicFlow01": {
+		"biome": {
+			"terrain" : "asphalt",
+			"objectType": "lake"
+		},
+		"templates" : ["FrgCra01", "FrgCra02", "FrgCra03", "FrgCra04", "FrgCra05", "FrgCra06", "FrgCra07", "FrgCra08", "FrgCra09", "FrgCra10", "FrgCra11", "FrgCra12", "FrgCra13", "FrgCra14", "FrgCra15", "FrgCra16", "FrgCra17", "FrgCra18", "FrgCra19", "FrgCra20", "FrgCra21", "FrgCra22", "FrgCra23", "FrgCra24", "FrgCra25", "FrgCra26", "FrgCra27", "FrgCra28", "FrgCra29", "FrgCra29"]
+	}
+}
