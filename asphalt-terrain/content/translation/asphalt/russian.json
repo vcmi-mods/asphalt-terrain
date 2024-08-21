@@ -1,0 +1,9 @@
+{
+	"mapObject.asphalt-terrain.rock.asphaltbones01.name" : "Кости",
+	"mapObject.asphalt-terrain.crater.asphaltcrater01.name" : "Кратер",
+	"mapObject.asphalt-terrain.rock.asphaltRocksHills01.name" : "Камень",
+	"mapObject.asphalt-terrain.abbeAssetsRuins.name" : "Руины",
+	"mapObject.asphalt-terrain.lavaFlow.asphaltToxicFlow01.name" : "Токсичные отходы",
+	"terrain.asphalt-terrain.acidRiver.name" : "Кислотная река",
+	"terrain.asphalt-terrain.asphalt.name" : "Асфальт"
+}
