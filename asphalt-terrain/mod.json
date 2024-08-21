@@ -5,9 +5,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.2.6",
+	"version" : "1.2.7",
 	"changelog" :
 	{
+		"1.2.7"   : [ "Russian translation by Anton Sergeew" ],
 		"1.2.6"   : [ "Added configuration for Biomes" ],
 		"1.2.5"   : [ "Added Chinese translation" ],
 		"1.2.4"   : [ "small fix for vcmi-1.4" ],
@@ -23,6 +24,13 @@
 		"description" : "沥青地形",
 		"translations" : [
 			"translation/asphalt/chinese.json"
+		]
+	},
+	"russian" : {
+		"name" : "Асфальт",
+		"description" : "Почвы",
+		"translations" : [
+			"translation/asphalt/russian.json"
 		]
 	},
 	"compatibility" :
