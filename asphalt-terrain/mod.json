@@ -27,8 +27,8 @@
 		]
 	},
 	"russian" : {
-		"name" : "Асфальт",
-		"description" : "Почвы",
+		"name" : "Асфальтовая почва",
+		"description" : "Новая почва и объекты для Кузни",
 		"translations" : [
 			"translation/asphalt/russian.json"
 		]
