@@ -5,14 +5,14 @@
 				"name": "Bones",
 				"templates": {
 					
-					"AVXSKDS1": {
+					"asphAVXSKDS1": {
 						"animation": "asphalt bones/AVXSKDS1",
 						"mask": ["VV","BB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
-					"AVXSKDS2": {
+					"asphAVXSKDS2": {
 						"animation": "asphalt bones/AVXSKDS2",
 						"mask": ["BBB","VVV"],
 						"allowedTerrains": [

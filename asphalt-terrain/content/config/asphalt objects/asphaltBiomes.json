@@ -4,7 +4,7 @@
 			"terrain" : "asphalt",
 			"objectType": "animal"
 		},
-		"templates" : ["AVXSKDS1", "AVXSKDS2"]
+		"templates" : ["asphAVXSKDS1", "asphAVXSKDS2"]
 	},
 	"carcass" : {
 		"biome": {
@@ -39,7 +39,7 @@
 			"terrain" : "asphalt",
 			"objectType": "crater"
 		},
-		"templates" : ["avlc10l0", "avlc11l0", "avlc12l0", "avlc13l0", "avlc14l0", "avlct3l0", "avlct4l0", "avlct5l0", "avlct6l0", "avlct7l0", "avlct8l0", "avlct9l0", "AVLctrl0"]
+		"templates" : ["asphavlc10l0", "asphavlc11l0", "asphavlc12l0", "asphavlc13l0", "asphavlc14l0", "asphavlct3l0", "asphavlct4l0", "asphavlct5l0", "asphavlct6l0", "asphavlct7l0", "asphavlct8l0", "asphavlct9l0", "asphavlctrl0"]
 	},
 	"deadTrees" : {
 		"biome": {
@@ -101,8 +101,8 @@
 		"biome": {
 			"terrain" : "asphalt",
 			"objectType": "mountain"
-		}, // FIXME: Conflict with hota mountains
-		"templates" : ["asphalt-terrain:MNTSWP01", "asphalt-terrain:MNTSWP02", "asphalt-terrain:MNTSWP03", "asphalt-terrain:MNTSWP04", "asphalt-terrain:MNTSWP05", "asphalt-terrain:MNTSWP06"]
+		}, 
+		"templates" : ["asphmntswp01", "asphmntswp02", "asphmntswp03", "asphmntswp04", "asphmntswp05", "asphmntswp06"]
 	},
 	"asphaltMountain4": {
 		"biome": {

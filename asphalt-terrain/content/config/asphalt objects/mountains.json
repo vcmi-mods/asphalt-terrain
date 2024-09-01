@@ -397,42 +397,42 @@
 							"asphalt"
 						]
 					},
-					"MNTSWP01": {
+					"asphmntswp01": {
 						"animation": "asphalt toxicMountains/MNTSWP01",
 						"mask": ["VVVV","VBBV", "VVBB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
-					"MNTSWP02": {
+					"asphmntswp02": {
 						"animation": "asphalt toxicMountains/MNTSWP02",
 						"mask": ["VVVV","VVBB", "VBBV"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
-					"MNTSWP03": {
+					"asphmntswp03": {
 						"animation": "asphalt toxicMountains/MNTSWP03",
 						"mask": ["VVVV","VBBB", "VVBB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
-					"MNTSWP04": {
+					"asphmntswp04": {
 						"animation": "asphalt toxicMountains/MNTSWP04",
 						"mask": ["VVVV","VBBB", "VBBV"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},		
-					"MNTSWP05": {
+					"asphmntswp05": {
 						"animation": "asphalt toxicMountains/MNTSWP05",
 						"mask": ["VVVVVV", "VVBBBB", "VBBBBB", "VBBBVV"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
-					"MNTSWP06": {
+					"asphmntswp06": {
 						"animation": "asphalt toxicMountains/MNTSWP06",
 						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
 						"allowedTerrains": [
