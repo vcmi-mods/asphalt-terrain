@@ -5,9 +5,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.2.8",
+	"version" : "1.2.9",
 	"changelog" :
 	{
+		"1.2.9"   : [ "Updated chinese translation" ],
 		"1.2.8"   : [ "Fixed indentifiers to be more unique" ],
 		"1.2.7"   : [ "Russian translation by Anton Sergeew" ],
 		"1.2.6"   : [ "Added configuration for Biomes" ],
