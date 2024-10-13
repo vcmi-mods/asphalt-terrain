@@ -5,7 +5,7 @@
 	"mapObject.asphalt-terrain.abbeAssetsRuins.name" : "Ruiny",
 	"mapObject.asphalt-terrain.lavaFlow.asphaltToxicFlow01.name" : "Toxický odpad",
 	"terrain.asphalt-terrain.acidRiver.name" : "Kyselinová řeka",
-	"terrain.asphalt-terrain.asphalt.name" : "Asfalt"
+	"terrain.asphalt-terrain.asphalt.name" : "Asfalt",
 	"river.asphalt-terrain.acidRiver.name" : "Kyselinová řeka",
 	"object.asphalt-terrain.abbeAssetsRuins.name" : "Ruiny"
 }
