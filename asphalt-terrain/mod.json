@@ -5,9 +5,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.2.9",
+	"version" : "1.3.0",
 	"changelog" :
 	{
+		"1.3.0"   : [ "Czech translation by George King" ],
 		"1.2.9"   : [ "Updated chinese translation" ],
 		"1.2.8"   : [ "Fixed indentifiers to be more unique" ],
 		"1.2.7"   : [ "Russian translation by Anton Sergeew" ],
@@ -33,6 +34,13 @@
 		"description" : "Новая почва и объекты для Кузни",
 		"translations" : [
 			"translation/asphalt/russian.json"
+		]
+	},
+	"czech" : {
+		"name" : "Asfalt",
+		"description" : "Přidá asfaltový terén",
+		"translations" : [
+			"translation/asphalt/czech.json"
 		]
 	},
 	"compatibility" :
