@@ -5,7 +5,7 @@
 		"moveCost" : 75,
 		"minimapUnblocked" : [ 63, 76, 54 ],
 		 "minimapBlocked"   : [ 31, 34, 26 ],
-		"music" : "asphalt/Kanashige",
+		"music" : [ "asphalt/Kanashige" ],
 		"tiles" : "asphalt/grastl_bad",
 		"river" : "acidRiver",
 		"rockTerrain":"rock",
