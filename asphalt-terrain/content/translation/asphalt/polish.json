@@ -1,0 +1,11 @@
+{
+	"mapObject.asphalt-terrain.rock.asphaltbones01.name": "Kości",
+	"mapObject.asphalt-terrain.crater.asphaltcrater01.name": "Krater",
+	"mapObject.asphalt-terrain.rock.asphaltRocksHills01.name": "Skały",
+	"mapObject.asphalt-terrain.abbeAssetsRuins.name": "Ruiny",
+	"mapObject.asphalt-terrain.lavaFlow.asphaltToxicFlow01.name": "Toksyczny Odpad",
+	"terrain.asphalt-terrain.acidRiver.name": "Kwasowa Rzeka",
+	"terrain.asphalt-terrain.asphalt.name": "Asfalt",
+	"river.asphalt-terrain.acidRiver.name": "Kwasowa Rzeka",
+	"object.asphalt-terrain.abbeAssetsRuins.name": "Ruiny"
+}

@@ -5,9 +5,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.3.1",
+	"version" : "1.3.2",
 	"changelog" :
 	{
+                "1.3.2"   : [ "Polish translation by FallainBlack" ],
 		"1.3.1"   : [ "Fix for broken Desolation map" ],
 		"1.3.0"   : [ "Czech translation by George King" ],
 		"1.2.9"   : [ "Updated chinese translation" ],
@@ -42,6 +43,13 @@
 		"description" : "Přidá asfaltový terén",
 		"translations" : [
 			"translation/asphalt/czech.json"
+		]
+	},
+	"polish" : {
+		"name" : "Asfalt",
+		"description" : "Nowy teren: asfalt",
+		"translations" : [
+			"translation/asphalt/polish.json"
 		]
 	},
 	"compatibility" :
