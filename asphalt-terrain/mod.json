@@ -8,6 +8,7 @@
 	"version" : "1.3.3",
 	"changelog" :
 	{
+		"1.3.4"   : [ "Ukrainian translation by MyroSlave" ],
 		"1.3.3"   : [ "Fixed Polish translation integrity with original game version by Yoshiro." ],
                 "1.3.2"   : [ "Polish translation by FallainBlack" ],
 		"1.3.1"   : [ "Fix for broken Desolation map" ],
@@ -53,6 +54,13 @@
 			"translation/asphalt/polish.json"
 		]
 	},
+		"ukrainian" : {
+		"name" : "Асфальт",
+		"description" : "Нова місцевість: асфальт",
+		"translations" : [
+			"translation/asphalt/ukrainian.json"
+		]
+		},
 	"compatibility" :
 	{
 		"min" : "1.5.0"
