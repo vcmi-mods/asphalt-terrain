@@ -1,76 +1,139 @@
-
 {
-	"asphAbsoluteVertical":
-	{
-		"allowedTerrains" : ["asphalt"],   //to change later
+	"asphAbsoluteVertical" : {
+		"allowedTerrains" : [
+			"asphalt"
+		], //to change later
 		"specialBattlefields" : [],
 		"width" : 241,
-		"height" :118,
-		"blockedTiles" :  [43,59,60,61,75,76,77, 92, 93, 109, 126, 127, 141, 142, 143],
+		"height" : 118,
+		"blockedTiles" : [
+			43,
+			59,
+			60,
+			61,
+			75,
+			76,
+			77,
+			92,
+			93,
+			109,
+			126,
+			127,
+			141,
+			142,
+			143
+		],
 		"animation" : "asphalt/asfaltAbsV",
 		"absolute" : true
 	},
-	"asphAbsoluteHorizontal":
-	{
-		"allowedTerrains" : ["asphalt"],   //to change later
+	"asphAbsoluteHorizontal" : {
+		"allowedTerrains" : [
+			"asphalt"
+		], //to change later
 		"specialBattlefields" : [],
 		"width" : 103,
-		"height" :212,
-		"blockedTiles" :  [60,61,62,63,64,73,74,75,76,88,89,90],
+		"height" : 212,
+		"blockedTiles" : [
+			60,
+			61,
+			62,
+			63,
+			64,
+			73,
+			74,
+			75,
+			76,
+			88,
+			89,
+			90
+		],
 		"animation" : "asphalt/asfaltAbsH",
 		"absolute" : true
 	},
 
-
-	"radioactiveCrater":
-	{
-		"allowedTerrains" : ["asphalt"],   //to change later
+	"radioactiveCrater" : {
+		"allowedTerrains" : [
+			"asphalt"
+		], //to change later
 		"specialBattlefields" : [],
 		"width" : 5,
-		"height" :3,
-		"blockedTiles" :  [0, 1, 2, -15, -14, -16],
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			-15,
+			-14,
+			-16
+		],
 		"animation" : "asphalt/asfaltOb3.def",
 		"absolute" : false
 	},
-	"abandonedGenerator":
-	{
-		"allowedTerrains" : ["asphalt"],   //to change later
+	"abandonedGenerator" : {
+		"allowedTerrains" : [
+			"asphalt"
+		], //to change later
 		"specialBattlefields" : [],
-		"width" :5,
-		"height" :3,
-		"blockedTiles" :  [0, 1, 2, -15, -16, -17],
+		"width" : 5,
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			-15,
+			-16,
+			-17
+		],
 		"animation" : "asphalt/asfaltOb4.def",
 		"absolute" : false
 	},
-	"wastelandBush":
-	{
-		"allowedTerrains" : ["asphalt"],
+	"wastelandBush" : {
+		"allowedTerrains" : [
+			"asphalt"
+		],
 		"specialBattlefields" : [],
 		"width" : 3,
-		"height" :3,
-		"blockedTiles" :  [1, -15, -16],
+		"height" : 3,
+		"blockedTiles" : [
+			1,
+			-15,
+			-16
+		],
 		"animation" : "asphalt/asfaltOb5.def",
 		"absolute" : false
 	},
-	
-	"wastelandBarrels":
-	{
-		"allowedTerrains" : ["asphalt"],
+
+	"wastelandBarrels" : {
+		"allowedTerrains" : [
+			"asphalt"
+		],
 		"specialBattlefields" : [],
 		"width" : 3,
-		"height" :3,
-		"blockedTiles" :  [0, 1, -15, -16],
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			-15,
+			-16
+		],
 		"animation" : "asphalt/asfaltOb6.def",
 		"absolute" : false
 	},
-	
-	"wastelandRocks":
-	{
-		"allowedTerrains" : ["asphalt"],
+
+	"wastelandRocks" : {
+		"allowedTerrains" : [
+			"asphalt"
+		],
 		"specialBattlefields" : [],
 		"width" : 5,
-		"height" :3,
-		"blockedTiles" :  [0, 1, 2, -14, -15],
+		"height" : 3,
+		"blockedTiles" : [
+			0,
+			1,
+			2,
+			-14,
+			-15
+		],
 		"animation" : "asphalt/asfaltOb7.def",
 		"absolute" : false
 	}

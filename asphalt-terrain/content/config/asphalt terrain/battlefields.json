@@ -1,3 +1,5 @@
 {
-	"asphalt": { "graphics" : "asphalt/asphalt bgy.png" }
+	"asphalt" : {
+		"graphics" : "asphalt/asphalt bgy.png"
+	}
 }
