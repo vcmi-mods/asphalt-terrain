@@ -39,7 +39,7 @@
 			"terrain" : "asphalt",
 			"objectType": "crater"
 		},
-		"templates" : ["asphavlc10l0", "asphavlc11l0", "asphavlc12l0", "asphavlc13l0", "asphavlc14l0", "asphavlct3l0", "asphavlct4l0", "asphavlct5l0", "asphavlct6l0", "asphavlct7l0", "asphavlct8l0", "asphavlct9l0", "asphavlctrl0"]
+		"templates" : ["asphavlc10a0", "asphavlc11a0", "asphavlc12a0", "asphavlc13a0", "asphavlc14a0", "asphavlct3a0", "asphavlct4a0", "asphavlct5a0", "asphavlct6a0", "asphavlct7a0", "asphavlct8a0", "asphavlct9a0", "asphavlctra0"]
 	},
 	"deadTrees" : {
 		"biome": {

@@ -4,47 +4,47 @@
 			"object": {
 				"templates": {
 
-					"AVLMTVO1": {
-						"animation": "asphalt craters/AVLMTVO1",
+					"AVLMTVA1": {
+						"animation": "asphalt craters/AVLMTVA1",
 						"mask": ["VVVVV", "BBBBV", "BBBBB", "VVBBB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
-					"AVLMTVO2": {
-						"animation": "asphalt craters/AVLMTVO2",
+					"AVLMTVA2": {
+						"animation": "asphalt craters/AVLMTVA2",
 						"mask": ["VVVVVV", "VBBBB", "BBBBB", "BBBVV"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"AVLMTVO3": {
-						"animation": "asphalt craters/AVLMTVO3",
+					"AVLMTVA3": {
+						"animation": "asphalt craters/AVLMTVA3",
 						"mask": ["VVV", "BBB", "VBB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"AVLMTVO4": {
-						"animation": "asphalt craters/AVLMTVO4",
+					"AVLMTVA4": {
+						"animation": "asphalt craters/AVLMTVA4",
 						"mask": ["VVV", "BBB", "BBV"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"AVLMTVO5": {
-						"animation": "asphalt craters/AVLMTVO5",
+					"AVLMTVA5": {
+						"animation": "asphalt craters/AVLMTVA5",
 						"mask": ["BBV", "VBB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"AVLMTVO6": {
-						"animation": "asphalt craters/AVLMTVO6",
+					"AVLMTVA6": {
+						"animation": "asphalt craters/AVLMTVA6",
 						"mask": ["VBB", "BBV"],
 						"allowedTerrains": [
 							"asphalt"

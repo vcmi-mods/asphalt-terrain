@@ -5,104 +5,104 @@
 				"name": "Chasm",
 				"templates": {
 	
-					"asphavlc10l0": {
-						"animation": "asphalt chasms/avlc10l0",
+					"asphavlc10a0": {
+						"animation": "asphalt chasms/avlc10a0",
 						"mask": ["BB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 
-					"asphavlc11l0": {
-						"animation": "asphalt chasms/avlc11l0",
+					"asphavlc11a0": {
+						"animation": "asphalt chasms/avlc11a0",
 						"mask": ["BB", "VB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlc12l0": {
-						"animation": "asphalt chasms/avlc12l0",
+					"asphavlc12a0": {
+						"animation": "asphalt chasms/avlc12a0",
 						"mask": ["B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlc13l0": {
-						"animation": "asphalt chasms/avlc13l0",
+					"asphavlc13a0": {
+						"animation": "asphalt chasms/avlc13a0",
 						"mask": ["B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlc14l0": {
-						"animation": "asphalt chasms/avlc14l0",
+					"asphavlc14a0": {
+						"animation": "asphalt chasms/avlc14a0",
 						"mask": ["B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct3l0": {
-						"animation": "asphalt chasms/avlct3l0",
+					"asphavlct3a0": {
+						"animation": "asphalt chasms/avlct3a0",
 						"mask": ["BB", "BB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct4l0": {
-						"animation": "asphalt chasms/avlct4l0",
+					"asphavlct4a0": {
+						"animation": "asphalt chasms/avlct4a0",
 						"mask": ["BB", "BV"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct5l0": {
-						"animation": "asphalt chasms/avlct5l0",
+					"asphavlct5a0": {
+						"animation": "asphalt chasms/avlct5a0",
 						"mask": ["B", "B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct6l0": {
-						"animation": "asphalt chasms/avlct6l0",
+					"asphavlct6a0": {
+						"animation": "asphalt chasms/avlct6a0",
 						"mask": ["B", "B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct7l0": {
-						"animation": "asphalt chasms/avlct7l0",
+					"asphavlct7a0": {
+						"animation": "asphalt chasms/avlct7a0",
 						"mask": ["B", "B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct8l0": {
-						"animation": "asphalt chasms/avlct8l0",
+					"asphavlct8a0": {
+						"animation": "asphalt chasms/avlct8a0",
 						"mask": ["B", "B"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlct9l0": {
-						"animation": "asphalt chasms/avlct9l0",
+					"asphavlct9a0": {
+						"animation": "asphalt chasms/avlct9a0",
 						"mask": ["BB"],
 						"allowedTerrains": [
 							"asphalt"
 						]
 					},
 					
-					"asphavlctrl0": {
-						"animation": "asphalt chasms/AVLctrl0",
+					"asphavlctra0": {
+						"animation": "asphalt chasms/AVLctra0",
 						"mask": ["BB"],
 						"allowedTerrains": [
 							"asphalt"
