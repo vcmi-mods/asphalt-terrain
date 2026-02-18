@@ -2,32 +2,69 @@
 	"name" : "Asphalt terrain",
 	"description" : "Assets for asphalt terrain.",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
-	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",	
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
 	"version" : "1.3.6",
-	"changelog" :
-	{
-		"1.3.6"   : [ "Adjust for RMG multilayers feature" ],
-		"1.3.5"   : [ "Fix for asphalt objects generating on lava terrain" ],
-		"1.3.4"   : [ "Ukrainian translation by MyroSlave" ],
-		"1.3.3"   : [ "Fixed Polish translation integrity with original game version by Yoshiro." ],
-        "1.3.2"   : [ "Polish translation by FallainBlack" ],
-		"1.3.1"   : [ "Fix for broken Desolation map" ],
-		"1.3.0"   : [ "Czech translation by George King" ],
-		"1.2.9"   : [ "Updated chinese translation" ],
-		"1.2.8"   : [ "Fixed indentifiers to be more unique" ],
-		"1.2.7"   : [ "Russian translation by Anton Sergeew" ],
-		"1.2.6"   : [ "Added configuration for Biomes" ],
-		"1.2.5"   : [ "Added Chinese translation" ],
-		"1.2.4"   : [ "small fix for vcmi-1.4" ],
-		"1.2.3"   : [ "added acid river palette shift" ],
-		"1.2.2"   : [ "Conversion to vcmi-1.3 format" ],
-		"1.2.1"   : [ "Fixed delta rivers" ],
-		"1.2.0"   : [ "Mod rewritten for new format" ],
-		"1.1.0"   : [ "Added mines and obelisk" ],
-		"1.0"     : [ "Initial release" ]
-	}, 
+	"changelog" : {
+		"1.3.6" : [
+			"Adjust for RMG multilayers feature"
+		],
+		"1.3.5" : [
+			"Fix for asphalt objects generating on lava terrain"
+		],
+		"1.3.4" : [
+			"Ukrainian translation by MyroSlave"
+		],
+		"1.3.3" : [
+			"Fixed Polish translation integrity with original game version by Yoshiro."
+		],
+		"1.3.2" : [
+			"Polish translation by FallainBlack"
+		],
+		"1.3.1" : [
+			"Fix for broken Desolation map"
+		],
+		"1.3.0" : [
+			"Czech translation by George King"
+		],
+		"1.2.9" : [
+			"Updated chinese translation"
+		],
+		"1.2.8" : [
+			"Fixed indentifiers to be more unique"
+		],
+		"1.2.7" : [
+			"Russian translation by Anton Sergeew"
+		],
+		"1.2.6" : [
+			"Added configuration for Biomes"
+		],
+		"1.2.5" : [
+			"Added Chinese translation"
+		],
+		"1.2.4" : [
+			"small fix for vcmi-1.4"
+		],
+		"1.2.3" : [
+			"added acid river palette shift"
+		],
+		"1.2.2" : [
+			"Conversion to vcmi-1.3 format"
+		],
+		"1.2.1" : [
+			"Fixed delta rivers"
+		],
+		"1.2.0" : [
+			"Mod rewritten for new format"
+		],
+		"1.1.0" : [
+			"Added mines and obelisk"
+		],
+		"1.0" : [
+			"Initial release"
+		]
+	},
 	"chinese" : {
 		"name" : "沥青地形",
 		"description" : "沥青地形",
@@ -56,57 +93,47 @@
 			"translation/asphalt/polish.json"
 		]
 	},
-		"ukrainian" : {
+	"ukrainian" : {
 		"name" : "Асфальт",
 		"description" : "Нова місцевість: асфальт",
 		"translations" : [
 			"translation/asphalt/ukrainian.json"
 		]
-		},
-	"compatibility" :
-	{
+	},
+	"compatibility" : {
 		"min" : "1.7.1"
 	},
-	"modType" : "Objects",	
-	"conflicts" :
-	[
-
-	],
-	"rivers":
-	[
+	"modType" : "Objects",
+	"conflicts" : [],
+	"rivers" : [
 		"config/asphalt terrain/river.json"
 	],
-		
-    "objects" :
-    [ 
-	"config/asphalt objects/deltas.json",
-	"config/asphalt objects/bones.json",
-	"config/asphalt objects/chasms.json",
-	"config/asphalt objects/deadTrees.json",
-	"config/asphalt objects/garrisons.json",
-	"config/asphalt objects/holes.json",
-	"config/asphalt objects/mountains.json",
-	"config/asphalt objects/mines.json",
-	"config/asphalt objects/rocks.json",
-	"config/asphalt objects/ruins.json",
-	"config/asphalt objects/sign.json",
-	"config/asphalt objects/toxicWaste.json",
-	"config/asphalt objects/others.json"
-    ],
-	"biomes":
-	[
+
+	"objects" : [
+		"config/asphalt objects/deltas.json",
+		"config/asphalt objects/bones.json",
+		"config/asphalt objects/chasms.json",
+		"config/asphalt objects/deadTrees.json",
+		"config/asphalt objects/garrisons.json",
+		"config/asphalt objects/holes.json",
+		"config/asphalt objects/mountains.json",
+		"config/asphalt objects/mines.json",
+		"config/asphalt objects/rocks.json",
+		"config/asphalt objects/ruins.json",
+		"config/asphalt objects/sign.json",
+		"config/asphalt objects/toxicWaste.json",
+		"config/asphalt objects/others.json"
+	],
+	"biomes" : [
 		"config/asphalt objects/asphaltBiomes.json"
 	],
-	"battlefields" :
-	[
+	"battlefields" : [
 		"config/asphalt terrain/battlefields.json"
 	],
-	"obstacles" :
-	[
+	"obstacles" : [
 		"config/asphalt terrain/obstacles.json"
 	],
-	"terrains" :
-	[
+	"terrains" : [
 		"config/asphalt terrain/terrains.json"
 	]
 }
