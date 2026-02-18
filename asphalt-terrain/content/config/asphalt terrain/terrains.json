@@ -1,31 +1,18 @@
 {
-	"asphalt" : {
+	"asphalt" :
+	{
 		"text" : "Asphalt",
 		"moveCost" : 75,
-		"minimapUnblocked" : [
-			63,
-			76,
-			54
-		],
-		"minimapBlocked" : [
-			31,
-			34,
-			26
-		],
-		"music" : [
-			"asphalt/Kanashige",
-			"asphalt/Whispers_of_the_Heart"
-		],
+		"minimapUnblocked" : [ 63, 76, 54 ],
+		"minimapBlocked"   : [ 31, 34, 26 ],
+		"music" : [ "asphalt/Kanashige", "asphalt/Whispers_of_the_Heart" ],
 		"tiles" : "asphalt/grastl_bad",
 		"river" : "acidRiver",
-		"rockTerrain" : "rock",
+		"rockTerrain":"rock",
 		"shortIdentifier" : "as",
-		"type" : [
-			"SURFACE"
-		],
-		"battleFields" : [
-			"asphalt"
-		],
+		"type" : [],
+		"allowedLayers": ["surface", "unknown"],
+		"battleFields" : ["asphalt"],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27"
 	}
