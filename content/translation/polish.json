@@ -1,5 +1,7 @@
 {
 	"terrain.asphalt-terrain.asphalt.name": "Asfalt",
 	"river.asphalt-terrain.acidRiver.name": "Kwasowa Rzeka",
-	"object.asphalt-terrain.abbeAssetsRuins.name": "Ruiny"
+	"object.asphalt-terrain.abbeAssetsRuins.name": "Ruiny",
+	"mod.name": "Asfalt",
+	"mod.description": "Nowy teren: asfalt"
 }

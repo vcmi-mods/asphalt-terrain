@@ -1,5 +1,7 @@
 {
-	"terrain.asphalt-terrain.asphalt.name" : "Asfalt",
-	"river.asphalt-terrain.acidRiver.name" : "Kyselinová řeka",
-	"object.asphalt-terrain.abbeAssetsRuins.name" : "Ruiny"
+	"terrain.asphalt-terrain.asphalt.name": "Asfalt",
+	"river.asphalt-terrain.acidRiver.name": "Kyselinová řeka",
+	"object.asphalt-terrain.abbeAssetsRuins.name": "Ruiny",
+	"mod.name": "Asfalt",
+	"mod.description": "Přidá asfaltový terén"
 }

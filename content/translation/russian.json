@@ -1,3 +1,5 @@
 {
-	"terrain.asphalt-terrain.asphalt.name": "Асфальт"
+	"terrain.asphalt-terrain.asphalt.name": "Асфальт",
+	"mod.name": "Асфальтовая почва",
+	"mod.description": "Новая почва и объекты для Кузни"
 }

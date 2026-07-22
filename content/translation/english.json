@@ -1,5 +1,7 @@
 {
 	"object.asphalt-terrain.abbeAssetsRuins.name" : "Ruins",
 	"river.asphalt-terrain.acidRiver.name" : "Acid river",
-	"terrain.asphalt-terrain.asphalt.name" : "Asphalt"
+	"terrain.asphalt-terrain.asphalt.name" : "Asphalt",
+	"mod.name" : "Asphalt terrain",
+	"mod.description" : "Assets for asphalt terrain."
 }
