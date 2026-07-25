@@ -2,6 +2,6 @@
 	"object.asphalt-terrain.abbeAssetsRuins.name": "Руїни",
 	"river.asphalt-terrain.acidRiver.name": "Токсична річка",
 	"terrain.asphalt-terrain.asphalt.name": "Асфальт",
-	"mod.name": "Асфальт",
-	"mod.description": "Нова місцевість: асфальт"
+	"mod.name": "Асфальтований ґрунт",
+	"mod.description": "Ресурси для асфальтованого ґрунту."
 }
