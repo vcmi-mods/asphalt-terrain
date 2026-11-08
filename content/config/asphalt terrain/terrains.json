@@ -2,6 +2,7 @@
 	"asphalt" : {
 		"text" : "Asphalt",
 		"moveCost" : 75,
+		"grailRumor" : "melted into the asphalt.",
 		"minimapUnblocked" : [
 			63,
 			76,

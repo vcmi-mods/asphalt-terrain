@@ -5,8 +5,11 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"author" : "HOMM modding community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "1.3.6",
+	"version" : "1.3.7",
 	"changelog" : {
+		"1.3.7" : [
+			"Update grail rumor (vcmi-1.8 feature) "
+		],
 		"1.3.6" : [
 			"Adjust for RMG multilayers feature"
 		],
@@ -101,7 +104,7 @@
 		]
 	},
 	"compatibility" : {
-		"min" : "1.7.1"
+		"min" : "1.8.0"
 	},
 	"modType" : "Objects",
 	"conflicts" : [],
