@@ -1,5 +1,6 @@
 {
 	"terrain.asphalt-terrain.asphalt.name": "Asfalt",
+	"terrain.asphalt-terrain.asphalt.grailRumor": "zatavený v asfaltu.",
 	"river.asphalt-terrain.acidRiver.name": "Kyselinová řeka",
 	"object.asphalt-terrain.abbeAssetsRuins.name": "Ruiny",
 	"mod.name": "Asfalt",
